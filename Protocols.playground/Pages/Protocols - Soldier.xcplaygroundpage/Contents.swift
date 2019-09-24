@@ -4,11 +4,18 @@
  
  Create a protocol called `Soldier`. What sort of attributes or things does a soldier do? Create at least one property and one function in this protocol that would make sense for a soldier.
  
+ Adopt and conform to the `Soldier` protocol on the `Person` struct below.
+ 
  */
 
 struct Person {
     let name: String
     let age: String
 }
+
+
+
+
+
 
 //: [Next](@next)
